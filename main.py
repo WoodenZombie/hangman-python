@@ -2,7 +2,6 @@
 Game "Hangman" as a console application
 Written by Tania Velegura
 Work started: 20.04.2021
-Work ended: ???
 """
 
 import random
